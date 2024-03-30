@@ -1,3 +1,17 @@
 # Project Steps
 # 1. Template Matching
+#       Template Matching uses a smaller image to find the location of where that small image appears in a larger image. It uses
+#       cv.matchTemplate() for this purpose. It works by sliding the template image over an input image and compares the two together. 
+#       It returns a greyscale image
 #
+#
+#
+#
+# 
+#
+#
+#
+#
+
+# Project Identifiers
+# 1. Use template matching in OpenCV to read the image and store it into an array going from left to right, top bottom
